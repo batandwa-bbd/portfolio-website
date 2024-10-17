@@ -26,7 +26,9 @@ Basic explanation of each and how they all fit together and have different respo
 - How to make objects and different types of functions in JavaScript (Arrow Functions)
 - Avoid using `this`
 - How to manipulate elements in the DOM and how to do basic events with JavaScript (onClick)
-- Fetching data from APIs using fetch ## Here are some next steps that you can take to further your knowledge in web development
+- Fetching data from APIs using fetch
+
+## Here are some next steps that you can take to further your knowledge in web development
 - Research what is a backend and how to make your own APIs in JavaScript using "Node.js"
 - What is a REST API and how can I make one on my JavaScript server?
 - How can I connect to a database using JavaScript?
